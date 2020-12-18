@@ -1,0 +1,5 @@
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 34535, resource id: 29360507, major code: 40 (TranslateCoords), minor code: 0
+UdevQt: unhandled device action "bind"
+UdevQt: unhandled device action "bind"
+UdevQt: unhandled device action "unbind"
+UdevQt: unhandled device action "unbind"
